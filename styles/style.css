@@ -18,7 +18,7 @@
     align-items: center;
     padding: var(--decoration-gap) 0;
     grid-template-rows: 1fr min-content 1fr;
-    grid-template-columns: 1fr;
+    grid-template-columns: 1fr; /* fr - это 1 доля от свободного элемента */
 }
 
 .header__theme-menu {
