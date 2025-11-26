@@ -37,6 +37,8 @@
         --answer-text-color: var(--almost-black);
         --deco-color: var(--almost-black);
         --background-image: url("../images/cover-image-light.png");
+
+        /* Автоматически применяет светлую тему, если пользователь предпочитает ее в настройках ОС браузера. */
     }
 }
 
