@@ -28,7 +28,7 @@
 
 .header__theme-menu-button {
     padding: 4px 13px;
-    background-color: inherit;
+    background-color: inherit; /* унаследует фоновый цвет от совего родителя */
     border: none;
     color: var(--button-color);
     cursor: pointer;
